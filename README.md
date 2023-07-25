@@ -1,7 +1,5 @@
 Hello!, My name is Raymond #Cyber Security Analyst Portfolio
 
-![Cyber Security](![2f45a2bfde367d5608532bb880f6a64d](https://github.com/raycybersecurity/raycybersecurity/assets/90159362/34ffad5b-9a23-48c5-973c-651a3e470b95)
-)
 ![2f45a2bfde367d5608532bb880f6a64d](https://github.com/raycybersecurity/raycybersecurity/assets/90159362/2a59d1c6-13ba-4f41-a17e-6239b8bc07fc)
 
 

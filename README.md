@@ -1,6 +1,8 @@
 Hello!, My name is Raymond #Cyber Security Analyst Portfolio
 
-![Cyber Security]([raycybersecurity.github.io](https://i.pinimg.com/originals/2f/45/a2/2f45a2bfde367d5608532bb880f6a64d.gif))
+![Cyber Security](![2f45a2bfde367d5608532bb880f6a64d](https://github.com/raycybersecurity/raycybersecurity/assets/90159362/34ffad5b-9a23-48c5-973c-651a3e470b95)
+)
+
 
 Hello and welcome to my Aspiring Cyber Security Analyst Portfolio! I am a beginner with a passion for cyber security, and this GitHub repository reflects my journey as I dive into the world of cybersecurity.
 

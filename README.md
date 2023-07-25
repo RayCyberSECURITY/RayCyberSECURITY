@@ -17,7 +17,7 @@ Hello everyone
 
 
 
-I am an aspiring cyber security analyst with a strong interest in safeguarding digital systems and data from cyber threats. Although I have no prior experience in the field, I am eager to learn, grow, and contribute to making the digital world more secure.
+As a kid, I was always fascinated by the digital world and the limitless possibilities it offered. My love for technology started at a young age, spending countless hours exploring computers, gaming, and the internet. But what truly captivated me was the idea of safeguarding this digital realm from potential threats. 
 
 ## Table of Contents
  

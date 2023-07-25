@@ -1,4 +1,5 @@
-Hello!, My name is Raymond #Cyber Security Analyst Portfolio
+Hello everyone ![349c8f0432cd0cda8aa32ad72683a0d4](https://github.com/raycybersecurity/raycybersecurity/assets/90159362/6a50bbc1-1fd6-4d5e-ad58-4d7a8adfa82a)
+ My name is Raymond #Cyber Security Analyst Portfolio
 
 ![2f45a2bfde367d5608532bb880f6a64d](https://github.com/raycybersecurity/raycybersecurity/assets/90159362/2a59d1c6-13ba-4f41-a17e-6239b8bc07fc)
 
